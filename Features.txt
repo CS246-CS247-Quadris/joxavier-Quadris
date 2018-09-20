@@ -1,0 +1,19 @@
+This verison is does not have the complete graphics display
+Grid Class WITH pointers
+everything but cmd args and hint
+
+Block
+Fully Implemented
+
+Levels
+all levels but level 4 work
+
+Need CMD interpreter
+
+NEED
+hint
+CMD args
+srand
+graphics
+norand rand file
+sequences fileMEmory leaks/smrt ptrs
